@@ -1,0 +1,73 @@
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+    color: #a10a49;
+    font-family: "Sacramento", cursive;
+    text-align: center;
+  }
+  p{
+    color: aliceblue;
+    font-size:xx-large;
+    font-family: candara;
+  }
+  
+  body {
+    height: 100vh;
+    background: #222;
+    background-image: repeating-linear-gradient(
+      to bottom,
+      transparent 7px,
+      rgba(0, 0, 0, 0.8) 9px,
+      rgba(0, 0, 0, 0.8) 13px,
+      transparent 13px
+    );
+    font-family: candara;
+  }
+  
+  footer{
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .container{
+    border: solid 10px #a10a49;
+    border-radius:22px;
+  }
+  
+  ul{
+    color: aliceblue;
+    font-size: 15pt;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    line-height: 3;
+  }
+  
+  h2{
+    color: aliceblue;
+    font-family: "Sacramento", cursive;
+    text-shadow: 0 0 5px #ffa500;
+    font-size: xx-large;
+  }
+  h3{
+    color: aliceblue;
+    font-family: "Sacramento", cursive;
+    font-size: x-large;
+  }
+  
+  label {
+    padding-right: 40px;
+    font-size: 1rem;
+    color: aliceblue;
+  }
+  .lista{
+    text-align: center;
+  }
+  table{
+    font-size: 15pt;
+  }
