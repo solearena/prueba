@@ -1,9 +1,0 @@
-package ejercicio2;
-
-public class ProductosFrescos {
-
-	public ProductosFrescos() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
